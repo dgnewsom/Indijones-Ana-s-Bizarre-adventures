@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 8b89e0a40489aab4f8ebf8fba6e9f540,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture2DAsset_62A1F65_Out_0:
+        m_Texture: {fileID: 2800000, guid: bd4523cbb9fbabe4fb1a397f0b08e7c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_873EC65A_Out_0:
+        m_Texture: {fileID: 2800000, guid: bd4523cbb9fbabe4fb1a397f0b08e7c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_EE908762_Out_0:
+        m_Texture: {fileID: 2800000, guid: bd4523cbb9fbabe4fb1a397f0b08e7c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_915C63A8: 0
+    - Vector1_19DE1AA0: 1
+    - _Activate: 1
+    - _ActiveFrenel: 0
+    - _StepValue: 1
+    m_Colors:
+    - Color_185E074F: {r: 1, g: 0.1462264, b: 0.1462264, a: 1}
+    - Color_BE18B09A: {r: 1, g: 0.7688679, b: 0.7688679, a: 1}
+    - _ActiveColour: {r: 1.9648322, g: 0, b: 0, a: 1}
+    - _DeactiveColour: {r: 0.0625, g: 0, b: 0, a: 1}
